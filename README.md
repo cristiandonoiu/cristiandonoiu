@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**cristiandonoiu/cristiandonoiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Cristian Donoiu and I'm a senior IT engineer.
 
-Here are some ideas to get you started:
+# Interests
+I'm currently interrested in open source workflow/messaging oriented solutions for improving the capabilities of software. <br>
+I have seen too many workflow engines implemented in house with work repeated again an again in different projects/companies. And seen too many industry "established" workflow engines that are hard to learn and use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+The main open source projects that I have fun with are:
+* **floref** - a java workflow engine, in progress of beeing released. <br>
+   Main goal: Create the most easy to learn and use Java workflow engine. 
+* [mongopipe.org](https://www.mongopipe.org) . Allows managing MongoDB pipelines. <br>
+Other goals:  Remove queries hardcoded in the code. Yes I dislike native SQL/noSQL thrown at me with a Spring @Query annotation. <br> 
+Allow migration and easy change(at runtime) of queries via API/UI. **Some business changes should not wait for the code to change.**. <br>  
+
+👯 I’m looking to collaborate with anyone sharing similar endeavours.<br>
+📫 How to reach me: *doncristiano at yahoo com*
